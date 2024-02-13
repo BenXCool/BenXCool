@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @BenXCool
 - 👀 I’m interested in Playing Instruments and Coding
-- 🌱 I’m currently learning luau (Roblox Studio) & Python
+- 🌱 I’m pretty good at Luau (Roblox Studio), and i am learning html and js
 - 📫 How to reach me coolbenxcool@gmail.com OR follow me on Roblox (@BenXCool0855) and send a message!
